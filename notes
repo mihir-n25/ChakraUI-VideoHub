@@ -1,0 +1,41 @@
+Chakra UI is a popular open-source React component library that provides a set of accessible and customizable UI components for building web applications. 
+
+
+npx create-react-app . --template @chakra-ui  -> use to install chakra UI.
+npm i react-responsive-carousel -> fro carousel purpose.
+import {ChakraProvider} from "@chakra-ui/react"
+<ColorModeScript/>
+    <ChakraProvider  theme={theme} >
+    <ColorModeSwitcher />
+    <App />
+    </ChakraProvider>
+
+
+we can easily export the methods of chakraUI directly in jsx file
+eg:- import{
+    Drawer,
+  DrawerBody,
+  DrawerHeader,
+} from '@chakra-ui/react';
+now we can call this in return block with some attributes like isOpen onClose
+ "Drawer" is a UI component that is commonly used for creating slide-out panels or menus that can be toggled open and closed. 
+DrawerOverlay is used to create a translucent overlay that covers the entire screen when the drawer is open.
+
+
+
+import {Link} from "react-router-dom"
+<Link to="/about"> About</Link>
+
+
+animation: imgup 0.7s linear infinite
+@keyframes imgUp{
+to{
+transform: translateY(-10px)
+}}
+
+
+stack = display:flex         VStack -> direction column & align items center
+
+ColorModeSwitcher.js is used for multitheme feature of ChakraUI
+
+use box instead of div to use chakraUI effeciently

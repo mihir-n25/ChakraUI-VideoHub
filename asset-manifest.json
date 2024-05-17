@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ChakraUI-VideoHub/static/css/main.503d4dc2.css",
-    "main.js": "/ChakraUI-VideoHub/static/js/main.14663fab.js",
+    "main.js": "/ChakraUI-VideoHub/static/js/main.c1139ab5.js",
     "static/media/PngItem_1127587.png": "/ChakraUI-VideoHub/static/media/PngItem_1127587.6bee84e3323f18653849.png",
     "static/media/hehe.jpg": "/ChakraUI-VideoHub/static/media/hehe.eae84ef3ea6614263614.jpg",
     "index.html": "/ChakraUI-VideoHub/index.html",
     "main.503d4dc2.css.map": "/ChakraUI-VideoHub/static/css/main.503d4dc2.css.map",
-    "main.14663fab.js.map": "/ChakraUI-VideoHub/static/js/main.14663fab.js.map"
+    "main.c1139ab5.js.map": "/ChakraUI-VideoHub/static/js/main.c1139ab5.js.map"
   },
   "entrypoints": [
     "static/css/main.503d4dc2.css",
-    "static/js/main.14663fab.js"
+    "static/js/main.c1139ab5.js"
   ]
 }

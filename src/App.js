@@ -8,8 +8,10 @@ import LogIn from "./components/LogIn.jsx"
 import SignUp from "./components/SignUp.jsx"
 
 function App() {
+  const basename = process.env.PUBLIC_URL;
+
   return (
-    <Router>
+    <Router basename={basename}>
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />

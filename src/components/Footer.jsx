@@ -10,7 +10,6 @@ import {
 } from '@chakra-ui/react';
 import React from 'react';
 import { AiOutlineSend } from 'react-icons/ai';
-z
 const Footer = () => {
   return (
     <Box bgColor={'blackAlpha.900'} minH={'40'} p="16" color={'white'}>
